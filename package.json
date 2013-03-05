@@ -4,6 +4,7 @@
   "version": "0.0.1",
     "repository"    : {"type": "git", "url":
       "git://github.com/stanley-gu/biomodels.git"},
+  "main": "biomodels.js",
   "scripts": {
     "start": ""
   },
