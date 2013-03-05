@@ -1,7 +1,7 @@
 {
   "name": "biomodels",
   "author": "Stanley Gu",
-  "version": "0.0.2",
+  "version": "0.0.3",
     "repository"    : {"type": "git", "url":
       "git://github.com/stanley-gu/biomodels.git"},
   "main": "biomodels.js",
